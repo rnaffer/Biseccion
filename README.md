@@ -1,7 +1,7 @@
 Biseccion
 =========
 
-Resuelve y grafica la raiz de una ecuacion utilizando el metodo de biseccion
+Resuelve y grafica la raiz de una funcion utilizando el metodo de biseccion
 
 
 
